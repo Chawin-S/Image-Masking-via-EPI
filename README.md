@@ -1,4 +1,3 @@
 # Image-Masking-via-EPI
-1
-23
-4
+Accurate image masking via EPI and edge detection in small lab setting environment <p>
+Contact: Chawin Sathirasethawong

@@ -9,5 +9,5 @@ We provide the dataset which includes raw light field images in LFR format with 
 <p>This dataset is provided as part of the following publication:
 <p>Sathirasethawong, C., Sun, C., Lambert, A., Tahtali, M.: Foreground Object Image Masking via EPI and Edge Detection for Photogrammetry with Static Background. In: International Symposium on Visual Computing (ISVC), Springer, (2019). (Pre-print)
 <p>Please cite the above paper if you use any part of the images or results included in the dataset. 
-<br>Please see the project page for more information: https://github.com/Chawin-S/Image-Masking-via-EPI/
-  
+<br>Please see the project page for more information: https://github.com/Chawin-S/Image-Masking-via-EPI/ 
+  <img src="https://i.imgur.com/04avzcU.png" width=10% height=10%>

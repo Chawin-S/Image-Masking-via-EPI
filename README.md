@@ -12,3 +12,6 @@ We provide the dataset which includes raw light field images in LFR format with 
 <br>Please see the project page for more information: https://github.com/Chawin-S/Image-Masking-via-EPI/ 
   <img src="https://raw.githubusercontent.com/Chawin-S/Image-Masking-via-EPI/master/04avzcU.png" width=10% height=10%>
 <br>Short video presentation: https://youtu.be/qeYOV6j2_yc
+  <img src="https://raw.githubusercontent.com/Chawin-S/Image-Masking-via-EPI/master/QRvideo.png" width=10% height=10%>
+  
+  

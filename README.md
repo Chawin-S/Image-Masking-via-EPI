@@ -7,8 +7,7 @@ Accurate image masking via EPI and edge detection in small lab setting environme
 # Dataset
 We provide the dataset which includes raw light field images in LFR format with camera calibration files, and comparable result images and groundtruths. <a href=https://cloudstor.aarnet.edu.au/plus/s/yFN89S5oaxGccnh>Download</a>
 <p>This dataset is provided as part of the following publication:
-<p><i>Sathirasethawong C., Sun C., Lambert A., Tahtali M. (2019) Foreground Object Image Masking via EPI and Edge Detection for Photogrammetry with Static Background. In: Bebis G. et al. (eds) Advances in Visual Computing. ISVC 2019. Lecture Notes in Computer Science, vol 11845. Springer, Cham</i>
-<p> https://doi.org/10.1007/978-3-030-33723-0_28
+<p><i>Sathirasethawong C., Sun C., Lambert A., Tahtali M. (2019) Foreground Object Image Masking via EPI and Edge Detection for Photogrammetry with Static Background. In: Bebis G. et al. (eds) Advances in Visual Computing. ISVC 2019. Lecture Notes in Computer Science, vol 11845. Springer, Cham.</i> https://doi.org/10.1007/978-3-030-33723-0_28
 <p>Please cite the above paper if you use any part of the images or results included in the dataset. 
 <p>Poster for <a href=https://github.com/Chawin-S/Image-Masking-via-EPI/blob/master/ISVC2019-Image-Masking-via-EPI.pdf>Download</a>
 <br>Please see the project page for more information: https://github.com/Chawin-S/Image-Masking-via-EPI/ 
